@@ -1,0 +1,8 @@
+Logger: 
+ -> Which Api endpoint was called - /user
+ -> which HTTP method - GET
+ -> Status code - 200
+ -> how much time taken for getting the data. - 4ms
+ Importance: 
+    -> Debugging
+    -> Monitoring
